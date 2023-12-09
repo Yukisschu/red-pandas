@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/giulia/red-pandas/redpandas2.png" alt="RedPandas">
+  <img src="https://github.com/Yukisschu/red-pandas/blob/main/redpandas.png?raw=true" alt="RedPandas">
 </div>
 
 
