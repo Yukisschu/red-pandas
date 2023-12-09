@@ -2,6 +2,7 @@
   <img src="https://github.com/Yukisschu/red-pandas/blob/main/redpandas.png?raw=true" alt="RedPandas">
 </div>
 
+-----------------
 
 | | |
 | --- | --- |
